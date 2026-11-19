@@ -7,7 +7,7 @@ int main()
     {
         scanf("%d",&a[i]);
     }
-    printf("reverse array:\n")
+    printf("reverse array:\n");
     for(i=4;i>=0;i--)
     {
         printf("%d",a[i]);
